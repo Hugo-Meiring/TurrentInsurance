@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Oxygen_scaled" size="1.000000 1.728516" />
+    <ImageTarget name="MarsBox_scaled" size="1.000000 1.332031" />
+    <ImageTarget name="Fissure_scaled" size="1.000000 1.728516" />
+    <ImageTarget name="Drone_scaled" size="1.000000 1.728516" />
+    <ImageTarget name="Astronaut_scaled" size="1.000000 1.728516" />
+    <ImageTarget name="egg2" size="1.000000 1.436667" />
+    <ImageTarget name="egg1" size="1.000000 1.289007" />
+  </Tracking>
+</QCARConfig>
